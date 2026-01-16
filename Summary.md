@@ -1,0 +1,2 @@
+ENBD’s partnership with McKinsey & Company transformed the bank into an AI-driven institution by building internal data capabilities, scaling analytics models, and embedding advanced analytics into business decision-making. 
+With more than 100 models deployed and a team of over 70 specialists, ENBD aims to generate five to seven times return on its AI investment, improve hyper-personalization of customer experience, and enhance operational efficiency
